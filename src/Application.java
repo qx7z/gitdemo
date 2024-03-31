@@ -4,5 +4,6 @@ public class Application {
         //System.out.println("second version");
         //System.out.println("third version");
         System.out.println("hot-fix first version");
+        System.out.println("push test");
     }
 }
